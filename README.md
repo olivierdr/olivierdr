@@ -74,7 +74,7 @@ I'm passionate about exploring all kinds of technologies
 
 </div>
 
-### 🚗 [CustomerHelpSystem](https://github.com/olivierdr/CustomerHelpSystem)
+### [CustomerHelpSystem](https://github.com/olivierdr/CustomerHelpSystem)
 **UK Car Rental Question Answering System**
 
 A question-answering system designed to provide accurate and relevant information about Sixt Rental Cars. This project demonstrates the feasibility of building a QA system for Sixt UK's customer support, using the Terms and Conditions webpage as a proof of concept.
@@ -86,7 +86,7 @@ A question-answering system designed to provide accurate and relevant informatio
 
 ---
 
-### 🛒 [EcommerceEngine](https://github.com/olivierdr/EcommerceEngine)
+### [EcommerceEngine](https://github.com/olivierdr/EcommerceEngine)
 **Automated E-commerce Product Classification**
 
 Automatic classification of e-commerce products into leaf categories based on available information (title, description, brand, color). The project begins with a comprehensive audit of the existing taxonomy to understand its structure and identify potential inconsistencies, then explores a flat & hybrid classification approach with identification of uncertain products for human validation.
