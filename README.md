@@ -1,5 +1,5 @@
 <!-- Header Capsule Render -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:8871e5,100:b678c4" />
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:8871e5,100:b678c4" />
 
 <!-- Typing SVG -->
 <p align="center">
