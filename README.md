@@ -12,6 +12,6 @@ CopierPublier<!-- Header Capsule Render -->
 <!-- Typing SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=28&color=8871E5&center=true&vCenter=true&multiline=true&width=800&height=200&lines=Hi%2C+Welcome+to+my+page!;I'm+Olivier+Dor%C3%A9;Machine+Learning+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=28&color=8871E5&center=true&vCenter=true&multiline=true&width=800&height=200&lines=Hi%2C+Welcome+to+my+page!;I'm+Olivier+Dor%C3%A9;Machine+Learning+Engineer;This+is+generated+by+Human+Intelligence" alt="Typing SVG" />
   </a>
 </div>
