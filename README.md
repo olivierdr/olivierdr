@@ -21,66 +21,19 @@
 
 <div align="center">
 
-![Education](https://img.shields.io/badge/Education-8871e5?style=flat-square) Master's degree in Statistical and Financial Engineering from Université Paris Dauphine, Paris
-
-![Teaching](https://img.shields.io/badge/Teaching-b678c4?style=flat-square) Teaching Master's level courses including "AI on the Cloud" - demonstrating how to implement and monitor AI projects in production
-
-![Certification](https://img.shields.io/badge/Certification-8871e5?style=flat-square) Certified Google Professional Machine Learning Engineer
-
-![Exploring](https://img.shields.io/badge/Exploring-b678c4?style=flat-square) Passionate about exploring all kinds of technologies
-
-</div>
-
-#### --
-
-<div align="center">
-
 ![Graduation](https://img.shields.io/badge/GRADUATION-Master's_Degree-8871e5?style=for-the-badge&logo=graduation-cap&logoColor=white)  
 Master's degree in Statistical and Financial Engineering from Université Paris Dauphine, Paris
 
-![Teaching](https://img.shields.io/badge/TEACHING-AI_on_the_Cloud-b678c4?style=for-the-badge&logo=google-classroom&logoColor=white)  
+![Teaching](https://img.shields.io/badge/TEACHING-AI_on_the_Cloud-5eb3b3?style=for-the-badge&logo=google-classroom&logoColor=white)  
 Teaching Master's level courses including "AI on the Cloud" - demonstrating how to implement and monitor AI projects in production
 
-![Certification](https://img.shields.io/badge/CERTIFIED-Google_ML_Engineer-8871e5?style=for-the-badge&logo=google-cloud&logoColor=white)  
+![Certification](https://img.shields.io/badge/CERTIFIED-Google_ML_Engineer-b678c4?style=for-the-badge&logo=google-cloud&logoColor=white)  
 I'm Certified Google Professional Machine Learning Engineer
 
-![Tech](https://img.shields.io/badge/PASSION-Tech_Explorer-b678c4?style=for-the-badge&logo=rocket&logoColor=white)  
+![Tech](https://img.shields.io/badge/PASSION-Tech_Explorer-7aa3d4?style=for-the-badge&logo=rocket&logoColor=white)  
 I'm passionate about exploring all kinds of technologies
 
-
 </div>
-
-#### --
-
-<div align="center">
-
-![Graduation](https://img.shields.io/badge/GRADUATION-Master's_Degree-8871e5?style=for-the-badge&logo=graduation-cap&logoColor=white)  
-Statistical and Financial Engineering from Université Paris Dauphine, Paris
-
-![Teaching](https://img.shields.io/badge/TEACHING-AI_on_the_Cloud-90ee90?style=for-the-badge&logo=google-classroom&logoColor=white)  
-Master's level courses - implementing and monitoring AI projects in production
-
-![Certification](https://img.shields.io/badge/CERTIFIED-Google_ML_Engineer-ffe66d?style=for-the-badge&logo=google-cloud&logoColor=white)  
-Google Professional Machine Learning Engineer
-
-![Tech](https://img.shields.io/badge/PASSION-Tech_Explorer-ff9999?style=for-the-badge&logo=rocket&logoColor=white)  
-Exploring all kinds of technologies
-
-</div>
-
-
-#### --
-
-<div align="center">
-
-![Graduation](https://img.shields.io/badge/GRADUATION-Master's_Degree-8871e5?style=for-the-badge&logo=graduation-cap&logoColor=white) Statistical and Financial Engineering from Université Paris Dauphine, Paris
-
-![Teaching](https://img.shields.io/badge/TEACHING-AI_on_the_Cloud-90ee90?style=for-the-badge&logo=google-classroom&logoColor=white) Master's level courses - implementing and monitoring AI projects in production
-
-![Certification](https://img.shields.io/badge/CERTIFIED-Google_ML_Engineer-ffe66d?style=for-the-badge&logo=google-cloud&logoColor=white) Google Professional Machine Learning Engineer
-
-![Tech](https://img.shields.io/badge/PASSION-Tech_Explorer-ff9999?style=for-the-badge&logo=rocket&logoColor=white) Exploring all kinds of technologies
-
 
 ---
 
