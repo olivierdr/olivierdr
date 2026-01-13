@@ -8,6 +8,7 @@ CopierPublier<!-- Header Capsule Render -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:8871e5,100:b678c4" />
 </div>
+
 <!-- Typing SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
