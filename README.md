@@ -26,17 +26,6 @@ CopierPublier<!-- Header Capsule Render -->
 
 <div align="center">
 
-- 🎓 Master's degree in Statistical and Financial Engineering from Université Paris Dauphine, Paris
-- 👨‍🏫 Teaching Master's level courses including "AI on the Cloud" - demonstrating how to implement and monitor AI projects in production
-- 🏆 Certified Google Professional Machine Learning Engineer
-- 💻 Passionate about exploring all kinds of technologies
-
-</div>
-
-</div>
-
-<div align="center">
-
 🎓 Master's degree in Statistical and Financial Engineering from Université Paris Dauphine, Paris
 
 👨‍🏫 Teaching Master's level courses including "AI on the Cloud" - demonstrating how to implement and monitor AI projects in production
